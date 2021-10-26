@@ -13,7 +13,8 @@
       },
       "context": "browser",
       "isLibrary": false,
-      "distDir": "./docs"
+      "distDir": "./docs",
+      "publicUrl": "./"
     }
   },
   "scripts": {
